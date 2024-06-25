@@ -1,7 +1,7 @@
 package com.kubernetes.Koo1;
 
 import org.springframework.stereotype.Component;
-
+//  Adding Component
 @Component
 public class Currency 
 {

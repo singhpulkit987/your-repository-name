@@ -9,6 +9,7 @@ private String from;
 private String to;
 private int amount;
 
+// Adding override
 @Override
 public String toString() {
 	return "Currency [from=" + from + ", to=" + to + ", amount=" + amount + "]";
